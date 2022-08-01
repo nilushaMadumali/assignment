@@ -1,0 +1,17 @@
+.userImage{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.userDiv{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+    padding: 6px;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 20px;
+}

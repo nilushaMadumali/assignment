@@ -1,0 +1,14 @@
+.info{
+    height: 100%;
+    padding-top: 32%;
+}
+
+.textContent{
+    margin-top: 15px;
+}
+
+.userImg{
+    width: 80%;
+    height: auto;
+    border-radius: 5px;
+}
